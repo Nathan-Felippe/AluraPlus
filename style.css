@@ -17,7 +17,7 @@ body {
 
   {
     margin: 0;
-    padding: 0;
+    padding  0;
   }  
 
 .principal {
@@ -157,3 +157,4 @@ body {
     background-color: var(--botao-azul-efeito);
     color: var(--cor-de-fundo);
 }
+
